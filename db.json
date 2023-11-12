@@ -1,0 +1,33 @@
+{
+  "donuts": [
+    {
+      "id": 1,
+      "image": "tasty_donut",
+      "name": "Tasty Donut",
+      "desc": "Spicy tasty donut family",
+      "price": "40"
+    },
+    {
+      "id": 2,
+      "image": "pink_donut",
+      "name": "Pink Donut",
+      "desc": "Spicy tasty donut family",
+      "price": "20"
+    },
+    {
+      "id": 3,
+      "image": "green_donut",
+      "name": "Floating Donut",
+      "desc": "Spicy tasty donut family",
+      "price": "30"
+    },
+
+    {
+      "id": 4,
+      "image": "red_donut",
+      "name": "Tasty Donut",
+      "desc": "Spicy tasty donut family",
+      "price": "10"
+    }
+  ]
+}
